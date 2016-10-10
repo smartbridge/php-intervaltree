@@ -1,4 +1,0 @@
-
-test:
-	phpunit --colors tests
-
